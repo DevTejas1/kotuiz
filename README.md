@@ -5,8 +5,11 @@ It is currently in the developing stage and it is going to further improve in up
 
 > # RESOURCES:
 > - [Official Resource](https://kotlinlang.org/)
->>    [Kotlin Koans](https://play.kotlinlang.org/koans/)
->
+
+  > [Kotlin Koans](https://play.kotlinlang.org/koans/)
+  > [Kotlin Examples](https://play.kotlinlang.org/byExample/overview)
+  > [Hands-On Kotlin](https://play.kotlinlang.org/hands-on/overview)
+> [Practice Kotlin](https://play.kotlinlang.org)
 >
 >
 >

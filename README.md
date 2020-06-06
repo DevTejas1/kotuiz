@@ -1,8 +1,19 @@
 # KOTUIZ
-![KOTLIN](KOTLIN.png)
+![KOTLIN](assets/KOTLIN.png)
 
 A very simple app that helps in starting kotlin journey for beginners. Kotlin is perfect for those who know atleast basics of Android.
 It is currently in the developing stage and it is going to further improve in upcoming days.
+
+## SCREENSHOTS
+![Homescreen](assets/1.png)
+
+![Homescreen](assets/2.png)
+
+![Homescreen](assets/3.png)
+
+![Homescreen](assets/4.png)
+
+![Homescreen](assets/5.png)
 
 ## RESOURCES:
 > [Official Resources](https://kotlinlang.org/)

@@ -15,7 +15,7 @@ It is currently in the developing stage and it is going to further improve in up
 
 ![Homescreen](assets/5.png)
 
-## RESOURCES:
+## Some of the RESOURCES I used:
 > [Official Resources](https://kotlinlang.org/)
 >
 >> - [Kotlin Koans](https://play.kotlinlang.org/koans/)

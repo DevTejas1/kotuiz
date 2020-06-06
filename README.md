@@ -5,17 +5,15 @@ A very simple app that helps in starting kotlin journey for beginners. Kotlin is
 It is currently in the developing stage and it is going to further improve in upcoming days.
 
 ## SCREENSHOTS
-![Homescreen](assets/1.png =250*250)
+![Homescreen](assets/1.png)
 
-![Homescreen](assets/2.png =250*250)
+![Homescreen](assets/2.png)
 
-![Homescreen](assets/3.png =250*250)
+![Homescreen](assets/3.png)
 
-![Homescreen](assets/4.png =250*250)
+![Homescreen](assets/4.png)
 
-![Homescreen](assets/5.png =250*250)
-
-<img src="(assets/5.png" data-canonical-src="https://gyazo.com/eb5c5741b6a9a16c692170a41a49c858.png" width="200" height="400" />
+![Homescreen](assets/5.png)
 
 ## Some of the RESOURCES I used:
 > [Official Resources](https://kotlinlang.org/)

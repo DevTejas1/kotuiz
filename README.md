@@ -14,6 +14,10 @@ It is currently in the developing stage and it is going to further improve in up
 >
 > [All Resources at one place](https://eventsonair.withgoogle.com/events/kotlin/resources)
 >
+> [Kotlin for Android](https://developer.android.com/courses/kotlin-android-fundamentals/overview)
+>
+> [Advanced Android with Kotlin](https://developer.android.com/courses/kotlin-android-advanced/overview)
+>
 > [Watch Video Tutorial](https://www.youtube.com/watch?v=F9UC9DY-vIU)
 >
 > [Best Blog](https://blog.kotlin-academy.com/)
